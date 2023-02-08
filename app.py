@@ -3,7 +3,7 @@ import json
 
 app = Flask(__name__)
 
-random_string = "b"
+random_string = "c"
 
 @app.route("/")
 def hello_world():
